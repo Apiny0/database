@@ -3,6 +3,7 @@ body{
     background-size: cover;
     background-position: center;
     filter: blur(5%);
+    backdrop-filter: blur(10px);
 }.box_name{
     font-size: 30px;
     margin-top: 4%;
