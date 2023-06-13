@@ -4,11 +4,11 @@ body{
     background-position: center;
     filter: blur(5%);
 }.box_name{
-    font-size: 80px;
+    font-size: 30px;
     margin-top: 4%;
     text-align: center ;
 }.box_pro{
-    font-size: 20px;
+    font-size: 80px;
     margin-top: 2%;
     margin-left: 1%;
 }.picture{
