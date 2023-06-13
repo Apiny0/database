@@ -44,4 +44,10 @@ body{
     margin-left: 30%;
 }.social{
     margin-left: 25%;
+}h1{
+    font-family:'Pacifico', cursive;
+    background: linear-gradient(90deg, #000000 0%, #fca401 110%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: cover;
 }
