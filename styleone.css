@@ -1,5 +1,5 @@
 body{
-    background-image: url(back.jpg);
+    background-image: url(../database.github.io/back.jpg);
     background-size: cover;
     background-position: center;
     filter: blur(5%);
@@ -12,7 +12,7 @@ body{
     margin-top: 2%;
     margin-left: 1%;
 }.picture{
-    background-image: url(apinya.jpg);
+    background-image: url(../database.github.io/apinya.jpg);
     border-radius: 50%;
     background-position: center;
     background-size: cover;
